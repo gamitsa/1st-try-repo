@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_test",
-  "spriteId": {
-    "name": "spr_test",
-    "path": "sprites/spr_test/spr_test.yy",
-  },
+  "name": "obj_testPatrat",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
